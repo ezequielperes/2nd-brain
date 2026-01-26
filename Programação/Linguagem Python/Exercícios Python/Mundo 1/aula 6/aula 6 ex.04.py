@@ -1,8 +1,0 @@
-n = input('\033[34m enter something:\033[m')
-print(f'\033[34m {n}\033[0m is a numeric? \033[33m{n.isnumeric()}')
-print(f'\033[34m {n}\033[0m is a alphabet? \033[33m{n.isalpha()}')
-print(f'\033[34m {n}\033[0m is a alphabet or numeric? \033[33m{n.isalnum()}')
-print(f'\033[34m {n}\033[0m is a decimal? \033[33m{n.isdecimal()}')
-print(f'\033[34m {n}\033[0m is a space? \033[33m{n.isspace()}')
-print(f'\033[34m {n}\033[0m is a upper ? \033[33m{n.isupper()}')
-print(f'\033[34m {n}\033[0m is a lower ? \033[33m{n.islower()}')

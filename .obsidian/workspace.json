@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a303be25fa793f",
+        "id": "c6d1539caaf2b717",
         "type": "tabs",
         "children": [
           {
-            "id": "17c4f04096820bf2",
+            "id": "311fabf1d2b3d762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd Brain/Programação/Linguagem Python/Conceitos básicos/Alinhamentos.md",
+                "file": "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 15 - Interrompendo Repetições while.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alinhamentos"
+              "title": "Aula 15 - Interrompendo Repetições while"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Brain/Programação/Linguagem Python/Conceitos básicos/Alinhamentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alinhamentos"
+              "title": "Backlinks"
             }
           },
           {
@@ -174,15 +173,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "17c4f04096820bf2",
-  "lastOpenFiles": []
+  "active": "fe22856ce35b8008",
+  "lastOpenFiles": [
+    "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 12 - Estruturas condicionais alinhadas (if elif  else).md",
+    "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 13 - Estrutura De Repetição for.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 14 - Estrutura De Repetição While.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 15 - Interrompendo Repetições while.md",
+    "aula 14 ex.65.py.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 2/2° Python Mundo 2.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Colors Python.jpeg",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 11 - Cores No Terminal.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 10 - Condições Simples e Compostas (Parte 1).md",
+    "Programação/Linguagem Python/Condições (Estruturas De Decisão)/and.md",
+    "Programação/Linguagem Python/Loops (Estrutura De Repetição)/for.md",
+    "Programação/Linguagem Python/Conceitos Intermediários/break.md",
+    "Programação/Linguagem Python/Módulos/datetime.md",
+    "Programação/Linguagem Python/Loops (Estrutura De Repetição)/while.md",
+    "Programação/Linguagem Python/Conceitos Intermediários/range.md",
+    "Programação/Linguagem Python/Conceitos Intermediários",
+    "Programação/Linguagem Python/Conceitos Intermediários/end.md",
+    "Programação/Linguagem Python/Loops (Estrutura De Repetição)",
+    "Programação/Linguagem Python/Conceitos básicos/len().md",
+    "Programação/Linguagem Python/Mundos",
+    "Programação/Linguagem Python/Conceitos básicos/in.md",
+    "Programação/Linguagem Python/Condições (Estruturas De Decisão)/elif.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 6 - Tipos primitivos, Entrada e Saída de Dados.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 8 - Utilizando Módulos.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 7 - Operadores Aritméticos.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 9 - Manipulando Texto.md",
+    "Programação/Linguagem Python/Condições (Estruturas De Decisão)/If.md"
+  ]
 }
