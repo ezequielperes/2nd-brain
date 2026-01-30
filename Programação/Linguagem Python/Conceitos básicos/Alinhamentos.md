@@ -4,6 +4,9 @@ Utilizado para alinhar um item para um tanto de caracteres
 
 Exemplo De Utilização:
 
+
+`{valor:[alinhamento][largura][.precisão][tipo]}`
+
 ---
 
 nome = input('Qual é o seu nome? ')
@@ -52,3 +55,8 @@ Run >
 `Prazer em te conhecer ======Ezequiel====== !`
                         20 caracteres
                         Incluindo Ezequiel
+
+
+
+`{valor:[alinhamento][largura][.precisão][tipo]}`
+

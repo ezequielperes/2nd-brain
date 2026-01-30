@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 15 - Interrompendo Repetições while.md",
+                "file": "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 9 - Manipulando Texto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 15 - Interrompendo Repetições while"
+              "title": "Aula 9 - Manipulando Texto"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "count",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,23 +182,32 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "fe22856ce35b8008",
+  "active": "311fabf1d2b3d762",
   "lastOpenFiles": [
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 13/aula 13 ex.gpt14.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 13/aula 13 ex.gpt13.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 12/aula 12 ex.gpt12.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 12/aula 12 ex.gpt11.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 14/aula 14 ex.gpt16.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 14/aula 14 ex.gpt15.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 14/aula 14 ex.65.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 14/aula 14 ex.64.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 14/aula 14 ex.63.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 14/aula 14 ex.62.py",
-    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 2/aula 14/aula 14 ex.61.py",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.83.py~",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 16/aula 16.py~",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.83.py",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.81.py~",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.82.py~",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.82.py",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.81.py",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.80.py~",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.80.py",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.79.py~",
+    "Programação/Linguagem Python/Exercícios Python/Exercícios Mundo 3/Aula 17/aula 17 ex.79.py",
+    "Programação/Linguagem Python/Conceitos básicos/f-string.md",
+    "Programação/Linguagem Python/Conceitos básicos/Alinhamentos.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 7 - Operadores Aritméticos.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 6 - Tipos primitivos, Entrada e Saída de Dados.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/1° Python Mundo 1.md",
+    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 9 - Manipulando Texto.md",
+    "Programação/Linguagem Python/Conceitos básicos/count().md",
+    "Programação/Linguagem Python/Conceitos Intermediários/end.md",
+    "Programação/Linguagem Python/Conceitos básicos/find().md",
+    "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 15 - Interrompendo Repetições while.md",
     "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 12 - Estruturas condicionais alinhadas (if elif  else).md",
     "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 13 - Estrutura De Repetição for.md",
     "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 14 - Estrutura De Repetição While.md",
-    "Programação/Linguagem Python/Mundos/Python mundo 2/Aula 15 - Interrompendo Repetições while.md",
     "aula 14 ex.65.py.md",
     "Programação/Linguagem Python/Mundos/Python mundo 2/2° Python Mundo 2.md",
     "Programação/Linguagem Python/Mundos/Python mundo 1/Colors Python.jpeg",
@@ -210,14 +219,7 @@
     "Programação/Linguagem Python/Módulos/datetime.md",
     "Programação/Linguagem Python/Loops (Estrutura De Repetição)/while.md",
     "Programação/Linguagem Python/Conceitos Intermediários/range.md",
-    "Programação/Linguagem Python/Conceitos Intermediários/end.md",
     "Programação/Linguagem Python/Conceitos básicos/len().md",
-    "Programação/Linguagem Python/Conceitos básicos/in.md",
-    "Programação/Linguagem Python/Condições (Estruturas De Decisão)/elif.md",
-    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 6 - Tipos primitivos, Entrada e Saída de Dados.md",
-    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 8 - Utilizando Módulos.md",
-    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 7 - Operadores Aritméticos.md",
-    "Programação/Linguagem Python/Mundos/Python mundo 1/Aula 9 - Manipulando Texto.md",
-    "Programação/Linguagem Python/Condições (Estruturas De Decisão)/If.md"
+    "Programação/Linguagem Python/Conceitos básicos/in.md"
   ]
 }

@@ -8,5 +8,9 @@ Exemplo:
 
 O Python avalia o que está dentro das `{}` **automaticamente**.
 
+
+`{valor:[alinhamento][largura][.precisão][tipo]}`
+
+
 Resumindo:  
 **f-string é uma string formatada que interpreta variáveis e expressões dentro do texto.**

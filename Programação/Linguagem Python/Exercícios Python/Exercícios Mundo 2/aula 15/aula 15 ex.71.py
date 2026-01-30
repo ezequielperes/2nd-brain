@@ -22,7 +22,7 @@ while True:
 print('='*20)
 print(f'Total de {cedulas_50} cédula(s) de R$50,00'
       f'\nTotal de {cedulas_20} cédulas(s) de R$20,00'
-      f'\nTotal de {cedulas_10} cédula(s) de R$10,00''
+      f'\nTotal de {cedulas_10} cédula(s) de R$10,00'
       f'\nTotal de {cedulas_1} cédula(s) de R$1,00')
 print('='*20)
 print('Obrigado! Volte sempre!')
