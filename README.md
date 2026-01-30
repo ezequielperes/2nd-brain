@@ -18,6 +18,7 @@ com foco em entender a lógica por trás das soluções.
 ## Organização
 - Pastas separadas por aulas, módulos e exercícios
 - Códigos em Python (.py) com foco em prática
+  Obs: todos os códigos python estão no caminho Programação/Linguagem Python/Exercícios Python
 - Anotações complementares para reforçar o aprendizado
 
 ## Objetivo
