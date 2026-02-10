@@ -1,0 +1,4 @@
+{'nome': 'Gustavo', 'idade': 41}
+{'nome': 'Ezequiel', 'idade': 19}
+{'nome': 'Caroliny Carvalho De Azevedo', 'idade': 19}
+{'nome': 'Rafael Archangelo Peres', 'idade': 12}
